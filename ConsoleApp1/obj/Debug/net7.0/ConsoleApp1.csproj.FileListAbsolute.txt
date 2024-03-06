@@ -1,0 +1,30 @@
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\шарпы\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Ваня\OneDrive\Рабочий стол\4 сем\шарпы\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
